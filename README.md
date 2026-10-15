@@ -1,5 +1,6 @@
 # 🛡️ GoShield — High-Throughput Rate Limiting Engine
 
+[![Live API](https://img.shields.io/badge/Live_API-Online-00F7FF?style=flat-square&logo=go&logoColor=black)](https://goshield-rate-limiter.onrender.com/health)
 [![Go CI](https://github.com/JohnAlva/goshield-rate-limiter/actions/workflows/ci.yml/badge.svg)](https://github.com/JohnAlva/goshield-rate-limiter/actions)
 [![Docker Ready](https://img.shields.io/badge/Docker-Ready-2496ED?style=flat-square&logo=docker&logoColor=white)](#)
 [![Go Version](https://img.shields.io/badge/Go-1.22+-00ADD8?style=flat-square&logo=go&logoColor=white)](#)
@@ -109,3 +110,4 @@ go test -v -race ./...
 *Fullstack Developer | Backend Specialist*  
 * GitHub: [@JohnAlva](https://github.com/JohnAlva)  
 * LinkedIn: [alvcode](https://www.linkedin.com/in/alvcode)
+
